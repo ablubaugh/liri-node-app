@@ -1,0 +1,15 @@
+
+Used spotify-this-song to find: 
+Artist: Gloria Gaynor 
+Song Name: I Will Survive - Extended Version 
+Spotify Preview Link: https://open.spotify.com/track/7cv28LXcjAC3GsXbUvXKbX 
+Album: 20th Century Masters: The Millennium Collection: Best Of Gloria Gaynor
+--------------------
+Used movie-this to find: 
+Title: Alien 
+Year: 1979 
+Country:UK, USA 
+Language: English 
+Plot: After a space merchant vessel perceives an unknown transmission as a distress call, its landing on the source moon finds one of the crew attacked by a mysterious lifeform, and they soon realize that its life cycle has merely begun. 
+Actor(s): Tom Skerritt, Sigourney Weaver, Veronica Cartwright, Harry Dean Stanton 
+--------------------
